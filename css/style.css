@@ -2,3 +2,12 @@
 	height: 45px;
 	background-color: #242424;
 }
+
+.menu li {
+	list-style-type : none;
+	display: inline;
+}
+
+.menu {
+
+}

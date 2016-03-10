@@ -296,9 +296,6 @@ nav ul li a{
     line-height: 60px;
 }
 
-
-
-
 .panier{
     float: right;
     border-right: 1px solid rgba(126,126,126,0.5);
@@ -320,9 +317,6 @@ nav ul li a{
     width: 50px;
     margin: 20px auto;
 }
-
-
-
 
 .nbr-etoile{
     font-family: 'open_sansregular';
@@ -453,7 +447,6 @@ h2{
 
 }
 
-
 .marque-1:hover > .trait hr{
     border: 3px solid #57c5a0;
 }
@@ -473,8 +466,6 @@ h2{
 .marque-5:hover > .trait hr{
     border: 3px solid #57c5a0;
 }
-
-
 
 .highlight hr{
     border: 3px solid #57c5a0;
@@ -528,7 +519,6 @@ h2{
     height: 158px;
 }
 
-
 .vignette-gauche{
     background-image: url('../img/onsale.png');
 
@@ -557,8 +547,6 @@ h2{
     background-color: #ebe7df;
     font-family: 'open_sansregular';
 }
-
-
 
 .titre_bouton{
     padding: 20px 0;
@@ -647,8 +635,6 @@ h2{
   color: white;
   border: 1px solid #57c5a0;
 }
-
-
 
 .marques-hover{
 
